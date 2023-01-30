@@ -2841,6 +2841,22 @@
 <term id="minecraft_-92"/>
 </positioning>
 </relation>
+<relation id="kthompson_1675074917603">
+<metadata>
+<author>kthompson</author>
+<creation-date>1675074917603</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Correction</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-92"/>
+<term id="minecraft_-94"/>
+</positioning>
+</relation>
 <relation id="kthompson_1675074928948">
 <metadata>
 <author>kthompson</author>
@@ -2926,10 +2942,10 @@
 <author>nasher</author>
 <creation-date>1675076092116</creation-date>
 <lastModifier>nasher</lastModifier>
-<lastModificationDate>1675076274834</lastModificationDate>
+<lastModificationDate>1675076100566</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Elaboration</type>
+<type>Question-answer_pair</type>
 <featureSet/>
 </characterisation>
 <positioning>
