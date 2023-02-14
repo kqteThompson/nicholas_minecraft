@@ -2621,8 +2621,8 @@
 <metadata>
 <author>swarnadeep</author>
 <creation-date>1676158849482</creation-date>
-<lastModifier>kthompson</lastModifier>
-<lastModificationDate>1676296074718</lastModificationDate>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Continuation</type>
@@ -3209,22 +3209,6 @@
 <term id="minecraft_-105"/>
 </positioning>
 </relation>
-<relation id="kthompson_1676296059022">
-<metadata>
-<author>kthompson</author>
-<creation-date>1676296059022</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Elaboration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="kthompson_1676295981477"/>
-<term id="swarnadeep_1676158962624"/>
-</positioning>
-</relation>
 <relation id="kthompson_1676296175350">
 <metadata>
 <author>kthompson</author>
@@ -3449,22 +3433,6 @@
 <term id="minecraft_-105"/>
 </positioning>
 </relation>
-<schema id="swarnadeep_1676158962624">
-<metadata>
-<author>swarnadeep</author>
-<creation-date>1676158962624</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Complex_discourse_unit</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<embedded-unit id="minecraft_-8"/>
-<embedded-unit id="minecraft_-9"/>
-</positioning>
-</schema>
 <schema id="swarnadeep_1676158999961">
 <metadata>
 <author>swarnadeep</author>
@@ -3707,8 +3675,8 @@
 <metadata>
 <author>kthompson</author>
 <creation-date>1676295981477</creation-date>
-<lastModifier>kthompson</lastModifier>
-<lastModificationDate>1676295993644</lastModificationDate>
+<lastModifier>nasher</lastModifier>
+<lastModificationDate>1676357061270</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Complex_discourse_unit</type>
@@ -3716,15 +3684,15 @@
 </characterisation>
 <positioning>
 <embedded-unit id="minecraft_-4"/>
-<embedded-schema id="swarnadeep_1676158962624"/>
+<embedded-unit id="minecraft_-8"/>
 </positioning>
 </schema>
 <schema id="kthompson_1676296898891">
 <metadata>
 <author>kthompson</author>
 <creation-date>1676296898891</creation-date>
-<lastModifier>kthompson</lastModifier>
-<lastModificationDate>1676296906262</lastModificationDate>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Complex_discourse_unit</type>
