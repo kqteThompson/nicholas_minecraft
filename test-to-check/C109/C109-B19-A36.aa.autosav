@@ -1341,7 +1341,7 @@
 <lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Continuation</type>
+<type>Acknowledgement</type>
 <featureSet/>
 </characterisation>
 <positioning>
@@ -1373,7 +1373,7 @@
 <lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Continuation</type>
+<type>Sequence</type>
 <featureSet/>
 </characterisation>
 <positioning>
@@ -1385,15 +1385,15 @@
 <metadata>
 <author>zbennis</author>
 <creation-date>1677245676930</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
+<lastModifier>nasher</lastModifier>
+<lastModificationDate>1678699945974</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Acknowledgement</type>
 <featureSet/>
 </characterisation>
 <positioning>
-<term id="zbennis_1677245616519"/>
+<term id="minecraft_-6"/>
 <term id="minecraft_-12"/>
 </positioning>
 </relation>
