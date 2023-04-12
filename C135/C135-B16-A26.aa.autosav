@@ -2685,22 +2685,6 @@
 <term id="minecraft_-89"/>
 </positioning>
 </relation>
-<relation id="nasher_1680511180070">
-<metadata>
-<author>nasher</author>
-<creation-date>1680511180070</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Sequence</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-89"/>
-<term id="nasher_1680511165986"/>
-</positioning>
-</relation>
 <schema id="nasher_1680509014850">
 <metadata>
 <author>nasher</author>
@@ -2886,16 +2870,13 @@
 <metadata>
 <author>nasher</author>
 <creation-date>1680511165986</creation-date>
-<lastModifier>nasher</lastModifier>
-<lastModificationDate>1680511171157</lastModificationDate>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Complex_discourse_unit</type>
 <featureSet/>
 </characterisation>
-<positioning>
-<embedded-unit id="minecraft_-91"/>
-<embedded-unit id="minecraft_-93"/>
-</positioning>
+<positioning/>
 </schema>
 </annotations>
