@@ -6853,54 +6853,6 @@
 <term id="minecraft_-222"/>
 </positioning>
 </relation>
-<relation id="nasher_1684499197462">
-<metadata>
-<author>nasher</author>
-<creation-date>1684499197462</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Result</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684499065169"/>
-<term id="nasher_1684499156102"/>
-</positioning>
-</relation>
-<relation id="nasher_1684499204183">
-<metadata>
-<author>nasher</author>
-<creation-date>1684499204183</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Acknowledgement</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684499156102"/>
-<term id="minecraft_-256"/>
-</positioning>
-</relation>
-<relation id="nasher_1684499213151">
-<metadata>
-<author>nasher</author>
-<creation-date>1684499213151</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Comment</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684499156102"/>
-<term id="minecraft_-257"/>
-</positioning>
-</relation>
 <schema id="nasher_1684491956621">
 <metadata>
 <author>nasher</author>
@@ -7212,7 +7164,7 @@
 <author>nasher</author>
 <creation-date>1684499156102</creation-date>
 <lastModifier>nasher</lastModifier>
-<lastModificationDate>1684499180768</lastModificationDate>
+<lastModificationDate>1684499162227</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Complex_discourse_unit</type>
@@ -7223,18 +7175,6 @@
 <embedded-unit id="minecraft_-226"/>
 <embedded-unit id="minecraft_-228"/>
 <embedded-unit id="minecraft_-230"/>
-<embedded-unit id="minecraft_-232"/>
-<embedded-unit id="minecraft_-234"/>
-<embedded-unit id="minecraft_-236"/>
-<embedded-unit id="minecraft_-238"/>
-<embedded-unit id="minecraft_-240"/>
-<embedded-unit id="minecraft_-242"/>
-<embedded-unit id="minecraft_-244"/>
-<embedded-unit id="minecraft_-246"/>
-<embedded-unit id="minecraft_-248"/>
-<embedded-unit id="minecraft_-250"/>
-<embedded-unit id="minecraft_-252"/>
-<embedded-unit id="minecraft_-254"/>
 </positioning>
 </schema>
 </annotations>
