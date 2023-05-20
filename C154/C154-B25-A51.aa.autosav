@@ -9053,86 +9053,6 @@
 <term id="minecraft_-308"/>
 </positioning>
 </relation>
-<relation id="nasher_1684574118299">
-<metadata>
-<author>nasher</author>
-<creation-date>1684574118299</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Result</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-300"/>
-<term id="nasher_1684574100688"/>
-</positioning>
-</relation>
-<relation id="nasher_1684574129745">
-<metadata>
-<author>nasher</author>
-<creation-date>1684574129745</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Acknowledgement</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684574100688"/>
-<term id="minecraft_-306"/>
-</positioning>
-</relation>
-<relation id="nasher_1684574140337">
-<metadata>
-<author>nasher</author>
-<creation-date>1684574140337</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Narration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-271"/>
-<term id="minecraft_-277"/>
-</positioning>
-</relation>
-<relation id="nasher_1684574143903">
-<metadata>
-<author>nasher</author>
-<creation-date>1684574143903</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Narration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-277"/>
-<term id="minecraft_-293"/>
-</positioning>
-</relation>
-<relation id="nasher_1684574146904">
-<metadata>
-<author>nasher</author>
-<creation-date>1684574146904</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Narration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-293"/>
-<term id="minecraft_-299"/>
-</positioning>
-</relation>
 <schema id="nasher_1684569603192">
 <metadata>
 <author>nasher</author>
@@ -9650,22 +9570,6 @@
 <positioning>
 <embedded-unit id="minecraft_-295"/>
 <embedded-unit id="minecraft_-297"/>
-</positioning>
-</schema>
-<schema id="nasher_1684574100688">
-<metadata>
-<author>nasher</author>
-<creation-date>1684574100688</creation-date>
-<lastModifier>nasher</lastModifier>
-<lastModificationDate>1684574103903</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Complex_discourse_unit</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<embedded-unit id="minecraft_-302"/>
-<embedded-unit id="minecraft_-304"/>
 </positioning>
 </schema>
 </annotations>
