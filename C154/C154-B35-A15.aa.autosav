@@ -8805,124 +8805,12 @@
 <lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Elaboration</type>
+<type>Question-answer_pair</type>
 <featureSet/>
 </characterisation>
 <positioning>
 <term id="minecraft_-304"/>
 <term id="minecraft_-305"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683421170">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683421170</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Acknowledgement</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684683337317"/>
-<term id="minecraft_-305"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683440145">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683440145</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Comment</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684683337317"/>
-<term id="minecraft_-306"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683445724">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683445724</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Comment</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684683337317"/>
-<term id="minecraft_-307"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683448994">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683448994</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Comment</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-306"/>
-<term id="minecraft_-309"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683467714">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683467714</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Narration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1684683027533"/>
-<term id="minecraft_-270"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683483299">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683483299</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Narration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-270"/>
-<term id="minecraft_-278"/>
-</positioning>
-</relation>
-<relation id="nasher_1684683493831">
-<metadata>
-<author>nasher</author>
-<creation-date>1684683493831</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Narration</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-278"/>
-<term id="minecraft_-296"/>
 </positioning>
 </relation>
 <schema id="nasher_1684676445676">
