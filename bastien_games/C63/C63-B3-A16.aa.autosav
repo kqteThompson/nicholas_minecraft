@@ -2013,7 +2013,7 @@
 <lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Comment</type>
+<type>Acknowledgement</type>
 <featureSet/>
 </characterisation>
 <positioning>
@@ -2163,22 +2163,6 @@
 <positioning>
 <term id="minecraft_-42"/>
 <term id="minecraft_-43"/>
-</positioning>
-</relation>
-<relation id="nasher_1684859197813">
-<metadata>
-<author>nasher</author>
-<creation-date>1684859197813</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Acknowledgement</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-57"/>
-<term id="minecraft_-66"/>
 </positioning>
 </relation>
 <schema id="zbennis_1684762757116">
