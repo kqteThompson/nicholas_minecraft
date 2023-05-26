@@ -1509,15 +1509,15 @@
 <metadata>
 <author>swarnadeep</author>
 <creation-date>1685008098446</creation-date>
-<lastModifier>nasher</lastModifier>
-<lastModificationDate>1685116953714</lastModificationDate>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Elaboration</type>
 <featureSet/>
 </characterisation>
 <positioning>
-<term id="minecraft_-31"/>
+<term id="minecraft_-30"/>
 <term id="minecraft_-39"/>
 </positioning>
 </relation>
@@ -1657,28 +1657,12 @@
 <lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Correction</type>
+<type>Contrast</type>
 <featureSet/>
 </characterisation>
 <positioning>
 <term id="minecraft_-33"/>
 <term id="minecraft_-37"/>
-</positioning>
-</relation>
-<relation id="nasher_1685116735179">
-<metadata>
-<author>nasher</author>
-<creation-date>1685116735179</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Result</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-37"/>
-<term id="minecraft_-39"/>
 </positioning>
 </relation>
 <schema id="swarnadeep_1685005991784">
