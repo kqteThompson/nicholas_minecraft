@@ -1233,8 +1233,8 @@
 <metadata>
 <author>zbennis</author>
 <creation-date>1677523373929</creation-date>
-<lastModifier>nasher</lastModifier>
-<lastModificationDate>1678798658402</lastModificationDate>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Continuation</type>
@@ -1297,8 +1297,8 @@
 <metadata>
 <author>zbennis</author>
 <creation-date>1677523556974</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
+<lastModifier>nasher</lastModifier>
+<lastModificationDate>1685982063547</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Narration</type>
@@ -1306,7 +1306,7 @@
 </characterisation>
 <positioning>
 <term id="minecraft_-22"/>
-<term id="zbennis_1677523561009"/>
+<term id="minecraft_-42"/>
 </positioning>
 </relation>
 <relation id="zbennis_1677523576979">
@@ -1377,8 +1377,8 @@
 <metadata>
 <author>zbennis</author>
 <creation-date>1677523619399</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
+<lastModifier>nasher</lastModifier>
+<lastModificationDate>1685982068124</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Result</type>
@@ -1386,22 +1386,22 @@
 </characterisation>
 <positioning>
 <term id="zbennis_1677523316393"/>
-<term id="zbennis_1677523561009"/>
+<term id="minecraft_-42"/>
 </positioning>
 </relation>
 <relation id="zbennis_1677523624666">
 <metadata>
 <author>zbennis</author>
 <creation-date>1677523624666</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
+<lastModifier>nasher</lastModifier>
+<lastModificationDate>1685982071410</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Result</type>
 <featureSet/>
 </characterisation>
 <positioning>
-<term id="zbennis_1677523561009"/>
+<term id="minecraft_-43"/>
 <term id="zbennis_1677523316513"/>
 </positioning>
 </relation>
@@ -1480,22 +1480,6 @@
 <embedded-unit id="minecraft_-51"/>
 <embedded-unit id="minecraft_-53"/>
 <embedded-unit id="minecraft_-55"/>
-</positioning>
-</schema>
-<schema id="zbennis_1677523561009">
-<metadata>
-<author>zbennis</author>
-<creation-date>1677523561009</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Complex_discourse_unit</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<embedded-unit id="minecraft_-42"/>
-<embedded-unit id="minecraft_-43"/>
 </positioning>
 </schema>
 </annotations>
