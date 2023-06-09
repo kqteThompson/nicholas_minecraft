@@ -2745,22 +2745,6 @@
 <term id="minecraft_-6"/>
 </positioning>
 </relation>
-<relation id="kthompson_1675160588011">
-<metadata>
-<author>kthompson</author>
-<creation-date>1675160588011</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Result</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="minecraft_-10"/>
-<term id="kthompson_1675160634530"/>
-</positioning>
-</relation>
 <relation id="kthompson_1675160609145">
 <metadata>
 <author>kthompson</author>
@@ -3101,8 +3085,8 @@
 <metadata>
 <author>kthompson</author>
 <creation-date>1675169980591</creation-date>
-<lastModifier>kthompson</lastModifier>
-<lastModificationDate>1685287659526</lastModificationDate>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Question-answer_pair</type>
@@ -3319,22 +3303,6 @@
 <positioning>
 <term id="minecraft_-120"/>
 <term id="minecraft_-122"/>
-</positioning>
-</relation>
-<relation id="kthompson_1675170853852">
-<metadata>
-<author>kthompson</author>
-<creation-date>1675170853852</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Sequence</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="kthompson_1675160634530"/>
-<term id="kthompson_1675160690529"/>
 </positioning>
 </relation>
 <relation id="kthompson_1675171188407">
@@ -3625,29 +3593,12 @@
 <term id="kthompson_1675170014316"/>
 </positioning>
 </relation>
-<schema id="kthompson_1675160634530">
-<metadata>
-<author>kthompson</author>
-<creation-date>1675160634530</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Complex_discourse_unit</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<embedded-unit id="minecraft_-16"/>
-<embedded-unit id="minecraft_-18"/>
-<embedded-unit id="minecraft_-12"/>
-</positioning>
-</schema>
 <schema id="kthompson_1675160690529">
 <metadata>
 <author>kthompson</author>
 <creation-date>1675160690529</creation-date>
-<lastModifier>n/a</lastModifier>
-<lastModificationDate>0</lastModificationDate>
+<lastModifier>nasher</lastModifier>
+<lastModificationDate>1686307201663</lastModificationDate>
 </metadata>
 <characterisation>
 <type>Complex_discourse_unit</type>
@@ -3657,6 +3608,8 @@
 <embedded-unit id="minecraft_-22"/>
 <embedded-unit id="minecraft_-24"/>
 <embedded-unit id="minecraft_-26"/>
+<embedded-unit id="minecraft_-16"/>
+<embedded-unit id="minecraft_-18"/>
 </positioning>
 </schema>
 <schema id="kthompson_1675161493075">
