@@ -4313,7 +4313,7 @@
 <lastModificationDate>0</lastModificationDate>
 </metadata>
 <characterisation>
-<type>Comment</type>
+<type>Acknowledgement</type>
 <featureSet/>
 </characterisation>
 <positioning>
@@ -4351,22 +4351,6 @@
 <positioning>
 <term id="minecraft_-149"/>
 <term id="minecraft_-152"/>
-</positioning>
-</relation>
-<relation id="nasher_1686295872934">
-<metadata>
-<author>nasher</author>
-<creation-date>1686295872934</creation-date>
-<lastModifier>nasher</lastModifier>
-<lastModificationDate>1686295900031</lastModificationDate>
-</metadata>
-<characterisation>
-<type>Acknowledgement</type>
-<featureSet/>
-</characterisation>
-<positioning>
-<term id="nasher_1686295818819"/>
-<term id="minecraft_-154"/>
 </positioning>
 </relation>
 <schema id="nasher_1686294290922">
